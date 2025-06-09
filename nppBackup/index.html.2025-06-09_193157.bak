@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>《完美应用Ubuntu》1-4版封面与详细介绍</title>
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #e95420;
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e95420;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+            vertical-align: top;
+        }
+        th {
+            background-color: #e95420;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .cover-img {
+            width: 120px;
+            height: 160px;
+            object-fit: cover;
+            display: block;
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+            border: 1px solid #ddd;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 14px;
+        }
+        .edition-info {
+            margin-left: 15px;
+        }
+        .edition-info strong {
+            color: #e95420;
+        }
+        .content-intro {
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>《完美应用Ubuntu》1-4版封面及内容介绍</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th width="15%">版本</th>
+                    <th width="28%">封面与出版信息</th>
+                    <th width="60%">内容介绍</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>第1版</td>
+                    <td>
+                        <img src="images/01.png"" alt="完美应用Ubuntu第1版封面" class="cover-img">
+                        <div class="edition-info">
+                            <strong>出版日期：</strong>2007年<br>
+                            <strong>出版社：</strong>电子工业出版社<br>
+                            <strong>页数：</strong>368页<br>
+                            <strong>ISBN：</strong>9787121066184
+                        </div>
+                    </td>
+                    <td class="content-intro">
+                        <p>《完美应用Ubuntu》第1版是国内最早系统介绍Ubuntu Linux的书籍之一，针对7.04 (Feisty Fawn)版本编写。</p>
+                        <p>主要内容包括：Ubuntu安装与配置、桌面环境使用、办公应用、多媒体应用、网络配置、软件包管理、系统管理等基础内容，适合Linux初学者入门使用。</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>第2版</td>
+                    <td>
+                        <img src="images/02.png" alt="完美应用Ubuntu第2版封面" class="cover-img">
+                        <div class="edition-info">
+                            <strong>出版日期：</strong>2010年<br>
+                            <strong>出版社：</strong>电子工业出版社<br>
+                            <strong>页数：</strong>432页<br>
+                            <strong>ISBN：</strong>9787121118128
+                        </div>
+                    </td>
+                    <td class="content-intro">
+                        <p>第2版基于Ubuntu 10.04 LTS (Lucid Lynx)更新内容，增加了更多实用技巧和深度配置。</p>
+                        <p>新增内容包括：Compiz Fusion 3D桌面效果配置、Wine Windows程序兼容层使用、虚拟机应用、服务器配置基础、Shell脚本入门等中高级内容，适合有一定Linux基础的读者。</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>第3版</td>
+                    <td>
+                        <img src="images/03.png" alt="完美应用Ubuntu第3版封面" class="cover-img">
+                        <div class="edition-info">
+                            <strong>出版日期：</strong>2017年<br>
+                            <strong>出版社：</strong>电子工业出版社<br>
+                            <strong>页数：</strong>496页<br>
+                            <strong>ISBN：</strong>9787121306662
+                        </div>
+                    </td>
+                    <td class="content-intro">
+                        <p>第3版针对Ubuntu 16.04 LTS (Xenial Xerus)编写，全面更新了Unity桌面环境的使用方法。</p>
+                        <p>新增内容：Unity桌面深度解析、Ubuntu软件开发环境搭建、Python编程入门、Android开发环境配置、云服务集成等，面向开发者和高级用户。</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>第4版</td>
+                    <td>
+                        <img src="images/04.jpg" alt="完美应用Ubuntu第4版封面" class="cover-img">
+                        <div class="edition-info">
+                            <strong>出版日期：</strong>2021年<br>
+                            <strong>出版社：</strong>电子工业出版社<br>
+                            <strong>页数：</strong>560页<br>
+                            <strong>ISBN：</strong>9787121387180
+                        </div>
+                    </td>
+                    <td class="content-intro">
+                        <p>第4版基于Ubuntu 18.04 LTS (Bionic Beaver)，最后一个支持32位CPU的Ubuntu版本编写，是系列中最全面的版本。</p>
+                        <p>新增内容：Snap包管理、系统安全加固、服务器集群配置、大数据处理环境搭建、物联网开发等前沿技术，适合专业开发者和系统管理员。</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <footer>
+            <p>© 2025 《完美应用Ubuntu》系列图书介绍网页</p>
+            <p>所有封面图片版权归原作者及出版社所有</p>
+        </footer>
+    </div>
+</body>
+</html>
