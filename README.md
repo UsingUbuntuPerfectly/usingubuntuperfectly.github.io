@@ -1,2 +1,2 @@
 # usingubuntuperfectly.github.io
-Ubuntu LTS 26.04
+Follow your dream, and from passion to profession!
